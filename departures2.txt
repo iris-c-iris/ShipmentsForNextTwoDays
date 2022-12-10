@@ -1,0 +1,13 @@
+4
+Klatch 1915 30 574 3
+32 0.1 mail
+133 2.4 pointy hats
+12 6 wizard staff
+Djelibeybi 0420 12 580 1
+1 2900 Hex
+Omnia 2333 33 733 3
+4 52.8 magic carpets
+14 4.7 omniscopes
+1260 0.03 stamps
+Zlobenia 0000 0 480 1
+1 700 THE LUGGAGE

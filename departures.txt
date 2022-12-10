@@ -1,0 +1,23 @@
+6
+Ueberwald 1215 5 403 5
+120 0.1 mail
+14 6.5 grimoires
+14 32.0 chains for grimoires
+1 210.3 librarian
+9 100.0 sapient pairwood
+Genua 0935 14 725 2
+63 0.1 mail
+1 23.4 green chimera
+Pseudopolis 2310 4 130 4
+29 0.1 mail
+16 50.7 goats
+1 4.5 book of runes 
+130 0.4 candles
+Lancre 0455 12 267 1
+73 0.1 mail
+Quirm 1115 2 63 2
+45 0.1 mail
+2 4.5 books of runes
+StoPlains 0012 2 69 2
+50 0.5 bananas
+168 0.3 surgical instruments
